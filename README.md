@@ -29,7 +29,7 @@
 - ⚡ Increased test coverage by **40%** through automation frameworks
 - 📉 Reduced manual regression effort by **30%** at Contour Software
 - 🌍 Based in **Lahore, Pakistan** — open to **Remote & Freelance** opportunities
-- 📫 Reach me at **<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="87f2f4eae6e9e6e5e5e6f4b0b3b7b7c7e0eae6eeeba9e4e8ea">[email&#160;protected]</a>**
+- 📬 Reach me at <a href="mailto:usmanabbas7400@gmail.com"><img src="https://img.shields.io/badge/Gmail-usmanabbas7400-D14836?style=flat-square&logo=gmail&logoColor=white" height="20" align="center" /></a>
 
 ---
 
@@ -106,7 +106,7 @@
 ### 🔬 [Selenium-TestNGFrameWork](https://github.com/usmanabbas-qa/Selenium-TestNGFrameWork)
 > Professional Test Automation framework built with **Java** and Selenium WebDriver — utilizing TestNG for structured test execution, parallel testing, and comprehensive reporting.
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 ![TestNG](https://img.shields.io/badge/TestNG-8B42AD?style=flat-square&logo=testng&logoColor=white)
 ![Cross-Browser](https://img.shields.io/badge/Testing-Cross--Browser-orange?style=flat-square)
