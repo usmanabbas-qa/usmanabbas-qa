@@ -67,47 +67,54 @@
 ### 🛒 [Cypress-Automation-DemoWebShop](https://github.com/usmanabbas-qa/Cypress-Automation-DemoWebShop)
 > Professional E2E Automation Testing project using Cypress and Page Object Model (POM) for the Demo Web Shop e-commerce platform.
  
-`Cypress` `JavaScript` `POM` `E2E Testing` `Automation`
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![POM](https://img.shields.io/badge/Pattern-POM-blue?style=flat-square)
+![E2E](https://img.shields.io/badge/Testing-E2E-green?style=flat-square)
  
 ---
  
 ### 🎭 [Automation-Playwright](https://github.com/usmanabbas-qa/Automation-Playwright)
 > End-to-end test automation framework built with Playwright — covering UI, functional, and regression testing scenarios.
  
-`Playwright` `JavaScript` `Automation` `Regression Testing`
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Automation](https://img.shields.io/badge/Testing-Automation-green?style=flat-square)
  
 ---
  
 ### 🛍️ [PlayWright-Ecommerce](https://github.com/usmanabbas-qa/PlayWright-Ecommerce)
 > Playwright-based automation suite for an e-commerce web application — includes login, cart, checkout, and payment flow testing.
  
-`Playwright` `JavaScript` `E2E Testing` `Ecommerce`
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![E2E](https://img.shields.io/badge/Testing-E2E-green?style=flat-square)
  
 ---
  
 ### 📐 [PlayWright-POM](https://github.com/usmanabbas-qa/PlayWright-POM)
 > Implementation of the Page Object Model (POM) design pattern using Playwright for scalable and maintainable test automation.
  
-`Playwright` `JavaScript` `POM` `Design Pattern`
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![POM](https://img.shields.io/badge/Pattern-POM-blue?style=flat-square)
  
 ---
  
 ### 🔬 [Selenium-TestNGFrameWork](https://github.com/usmanabbas-qa/Selenium-TestNGFrameWork)
 > Selenium WebDriver test automation framework with TestNG — built for cross-browser testing and structured test execution.
  
-`Selenium` `Python` `TestNG` `Cross-Browser Testing`
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Cross-Browser](https://img.shields.io/badge/Testing-Cross--Browser-orange?style=flat-square)
  
 ---
  
 ## 📊 GitHub Stats
  
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=usmanabbas-qa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usmanabbas-qa&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
- 
-<p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=usmanabbas-qa&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=usmanabbas-qa&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=usmanabbas-qa&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
  
 ---
@@ -115,7 +122,7 @@
 ## 🏆 GitHub Achievements
  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=usmanabbas-qa&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=usmanabbas-qa&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=4" />
 </p>
  
 ---
@@ -123,8 +130,8 @@
 ## 📈 What I'm Currently Working On
  
 - 🔧 Building a **Postman + Newman API testing** collection for open source projects
-- 📚 Learning **Performance Testing** with k6/Jmeter
-- 🌱 Expanding automation skills with **JavaScript + Playwright**
+- 📚 Learning **Performance Testing** with k6
+- 🌱 Expanding automation skills with **TypeScript + Playwright**
 - ✍️ Sharing QA tips and insights on **LinkedIn**
  
 ---
@@ -145,5 +152,5 @@
 </p>
  
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer&fontSize=16" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer" />
 </p>
