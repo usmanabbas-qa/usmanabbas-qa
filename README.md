@@ -53,6 +53,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
  
 ### Methodologies
 ![Agile](https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=azuredevops&logoColor=white)
@@ -71,6 +72,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![POM](https://img.shields.io/badge/Pattern-POM-blue?style=flat-square)
 ![E2E](https://img.shields.io/badge/Testing-E2E-green?style=flat-square)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
  
 ---
  
@@ -80,6 +82,7 @@
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Automation](https://img.shields.io/badge/Testing-Automation-green?style=flat-square)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
  
 ---
  
@@ -102,10 +105,11 @@
 ---
  
 ### 🔬 [Selenium-TestNGFrameWork](https://github.com/usmanabbas-qa/Selenium-TestNGFrameWork)
-> Selenium WebDriver test automation framework with TestNG — built for cross-browser testing and structured test execution.
- 
+> Professional Test Automation framework built with **Java** and Selenium WebDriver — utilizing TestNG for structured test execution, parallel testing, and comprehensive reporting.
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TestNG](https://img.shields.io/badge/TestNG-8B42AD?style=flat-square&logo=testng&logoColor=white)
 ![Cross-Browser](https://img.shields.io/badge/Testing-Cross--Browser-orange?style=flat-square)
  
 ---
@@ -114,7 +118,6 @@
  
 <p align="center">
   <img width="48%" src="https://streak-stats.demolab.com/?user=usmanabbas-qa&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=usmanabbas-qa&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
  
 ---
