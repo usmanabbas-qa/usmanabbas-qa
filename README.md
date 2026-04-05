@@ -19,21 +19,21 @@
 
 ---
 
-## 🧪 About Me
+##  About Me
 
-- 🔍 I **break software before your users do** — SQA Engineer with **1.5+ years** of hands-on experience
-- 🤖 Specialized in **Test Automation** using Selenium, Cypress, and Playwright
-- 🔌 Experienced in **API Testing** with Postman and REST
-- 📱 Skilled in **Manual & Mobile Testing** across web and cross-platform apps
-- 🏥 Worked on **healthcare modules** at Xeven Solutions — zero production leaks
-- ⚡ Increased test coverage by **40%** through automation frameworks
-- 📉 Reduced manual regression effort by **30%** at Contour Software
-- 🌍 Based in **Lahore, Pakistan** — open to **Remote & Freelance** opportunities
-- 📬 Reach me at <a href="mailto:usmanabbas7400@gmail.com"><img src="https://img.shields.io/badge/Gmail-usmanabbas7400-D14836?style=flat-square&logo=gmail&logoColor=white" height="20" align="center" /></a>
+- I **break software before your users do** — SQA Engineer with **1.5+ years** of hands-on experience
+- Specialized in **Test Automation** using Selenium, Cypress, and Playwright
+- Experienced in **API Testing** with Postman and REST
+- Skilled in **Manual & Mobile Testing** across web and cross-platform apps
+- Worked on **healthcare modules** at Xeven Solutions — zero production leaks
+- Increased test coverage by **40%** through automation frameworks
+- Reduced manual regression effort by **30%** at Contour Software
+- Based in **Lahore, Pakistan** — open to **Remote & Freelance** opportunities
+- Reach me at <a href="mailto:usmanabbas7400@gmail.com"><img src="https://img.shields.io/badge/Gmail-usmanabbas7400-D14836?style=flat-square&logo=gmail&logoColor=white" height="20" align="center" /></a>
 
 ---
 
-## 🛠️ Tech Stack & Tools
+##  Tech Stack & Tools
 
 ### Test Automation
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
@@ -64,7 +64,7 @@
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ### 🛒 [Cypress-Automation-DemoWebShop](https://github.com/usmanabbas-qa/Cypress-Automation-DemoWebShop)
 > Professional E2E Automation Testing project using Cypress and Page Object Model (POM) for the Demo Web Shop e-commerce platform.
@@ -113,7 +113,7 @@
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img width="48%" src="https://streak-stats.demolab.com/?user=usmanabbas-qa&theme=tokyonight&hide_border=true" />
@@ -122,7 +122,7 @@
 
 ---
 
-## 📈 Contribution Activity
+##  Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=usmanabbas-qa&theme=tokyo-night&hide_border=true&area=true" />
@@ -130,16 +130,16 @@
 
 ---
 
-## 📈 What I'm Currently Working On
+##  What I'm Currently Working On
 
-- 🔧 Building a **Postman + Newman API testing** collection for open source projects
-- 📚 Learning **Performance Testing** with k6/JMeter
-- 🌱 Expanding automation skills with **JavaScript + Playwright**
-- ✍️ Sharing QA tips and insights on **LinkedIn**
+- Building a **Postman + Newman API testing** collection for open source projects
+- Learning **Performance Testing** with k6/JMeter
+- Expanding automation skills with **JavaScript + Playwright**
+- Sharing QA tips and insights on **LinkedIn**
 
 ---
 
-## 🤝 Let's Connect
+##  Let's Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/usmanabbas-qa" target="_blank">
