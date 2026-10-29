@@ -21,7 +21,7 @@
 
 ##  About Me
 
-- I **break software before your users do** — SQA Engineer with **1.5+ years** of hands-on experience
+- I **break software before your users do** — SQA Engineer with **2+ years** of hands-on experience
 - Specialized in **Test Automation** using Selenium, Cypress, and Playwright
 - Experienced in **API Testing** with Postman and REST
 - Skilled in **Manual & Mobile Testing** across web and cross-platform apps
