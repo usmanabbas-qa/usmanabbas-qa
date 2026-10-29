@@ -66,7 +66,7 @@
 
 ##  Featured Projects
 
-### 🛒 [Cypress-Automation-DemoWebShop](https://github.com/usmanabbas-qa/Cypress-Automation-DemoWebShop)
+### 🛒 [Cypress-Automation-WebShop](https://github.com/usmanabbas-qa/Cypress-Automation-DemoWebShop)
 > Professional E2E Automation Testing project using Cypress and Page Object Model (POM) for the Demo Web Shop e-commerce platform.
 
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
